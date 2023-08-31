@@ -1,4 +1,6 @@
 public class Iphone implements NavegadoInternet, ReprodutorMusicial, AparelhoTelefonico{
+
+    private String cor;
     @Override
     public void ligar() {
 
